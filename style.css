@@ -1,0 +1,80 @@
+canvas {
+	border-radius: 5px;
+}
+
+#main {
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	height: 100%;
+	padding-top: 100px;
+}
+
+button {
+	display:inline-block;
+	cursor:pointer;
+	font-size:21px;
+	padding:10px 28px;
+	margin: 5px 5px;
+	text-decoration:none;
+}
+
+button:active {
+	position:relative;
+	top:1px;
+}
+
+button:focus {
+	outline: none;
+}
+
+#showButton {
+	background-color:#c62d1f;
+	color: #ffffff;
+}
+#showButton:hover {
+	background-color:#f24437;
+}
+
+#newButton {
+	background-color:#74ad5a;
+	color: #ffffff;
+}
+
+#newButton:hover {
+	background-color: #68a54b;
+}
+
+#repeatButton {
+	background-color: #599bb3;
+	color: #ffffff;
+}
+
+#repeatButton:hover {
+	background-color: #408c99;
+}
+
+#wordTextContainer {
+	margin: 10px auto;
+	height: 25px;
+}
+
+p {
+	color: black;
+	font-weight: bold;
+}
+
+#footer {
+	font-weight: lighter;
+	font-size: 12px;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+}
+
+html {
+	height: 100%;
+	font-family: 'Open Sans', sans-serif;
+}
