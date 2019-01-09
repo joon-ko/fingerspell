@@ -1,4 +1,4 @@
-## fingerspell
+## [fingerspell](https://simpko.github.io/fingerspell/)
 
 minimalistic ASL fingerspelling practice tool.
 
